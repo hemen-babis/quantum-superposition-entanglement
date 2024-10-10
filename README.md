@@ -12,7 +12,7 @@ This project demonstrates two important concepts in quantum computing: **Superpo
 
 ## How to Run This Project
 
-### Step 1: Clone the repository
+### 1 ---> Let's clone the repository
 
 First, you'll need to clone this repository to your local machine:
 
@@ -20,7 +20,7 @@ First, you'll need to clone this repository to your local machine:
 git clone https://github.com/hemen-babis/quantum-superposition-entanglement.git
 ```
 
-### Step 2: Install dependencies
+### 2 ---> Then install dependencies
 
 Make sure you have Python installed (version 3.8 or higher). Install the dependencies by running:
 
@@ -28,7 +28,7 @@ Make sure you have Python installed (version 3.8 or higher). Install the depende
 pip install -r requirements.txt
 ```
 
-### Step 3: Run the project
+### 3 ---> Run!!!
 
 You can run the project by executing:
 
